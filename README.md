@@ -34,8 +34,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: []()
-- URL do site ao vivo: []()
+- URL da solução: [https://www.frontendmentor.io/solutions/desafio-profile-card-component-r5_0nr3Bi](https://www.frontendmentor.io/solutions/desafio-profile-card-component-r5_0nr3Bi)
+
+- URL do site ao vivo: [https://daviallevato.github.io/FM-Profile-card-component/](https://daviallevato.github.io/FM-Profile-card-component/)
 
 ## Meu processo
 
@@ -51,7 +52,7 @@ Os usuários devem ser capazes de:
 Melhorei no uso de tags semânticas facilitando o entendimento de leitores de acessibilidade.
 
 ```html
- <footer role="contentinfo">
+ <footer>
         Challenge by <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank" aria-label="front end mentor challenges">Frontend Mentor</a>. Coded by <a href="https://github.com/DaviAllevato" target="_blank" aria-label="GitHub">Davi Allevato</a>.
   </footer>
 ```
