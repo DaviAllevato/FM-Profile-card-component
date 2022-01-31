@@ -41,15 +41,15 @@ body, html{
 
 .bg_top{
     position: absolute;
-    top: -100%;
-    right: 50%;
+    top: -83%;
+    right: 51%;
     z-index: 9;
 }
 
 .bg_bottom{
     position: absolute;
-    bottom: -122%;
-    left: 49%;
+    bottom: -100%;
+    left: 45%;
     z-index: 9;
 }
 
@@ -176,16 +176,4 @@ footer{
 footer a{
     text-decoration: none;
     color: hsl(246, 85%, 55%);
-}
-
-@media (max-width: 375px){
-    .bg_top{
-        top: -111%;
-        right: 51%;
-    }
-
-    .bg_bottom{
-        bottom: -130%;
-        left: 40%;
-    }
 }
