@@ -30,7 +30,7 @@ body, html{
 main{
     background-color: var(--Dark_cyan);
     background-image: url("imagens/bg-pattern-top.svg"), url("imagens/bg-pattern-bottom.svg");
-    background-position: bottom 50vh right 50vw, top 50vh left 50vw;
+    background-position: bottom 32vh right 52vw, top 54vh left 48vw;
     background-repeat: no-repeat;
     min-height: 100vh;
     display: flex;
@@ -131,4 +131,10 @@ footer{
 footer a{
     text-decoration: none;
     color: hsl(246, 85%, 55%);
+}
+
+@media(max-width: 425px){
+    main{
+        background-position: bottom 43vh right 48vw, top 46vh left 38vw;
+    }
 }
