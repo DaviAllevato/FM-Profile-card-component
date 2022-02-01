@@ -57,37 +57,6 @@ Melhorei no uso de tags semânticas facilitando o entendimento de leitores de ac
   </footer>
 ```
 
-Ainda não compreendi o uso do **Position** por completo, mas estou aprendendo.
-
-```css
-  .container{
-      background-color: var(--Dark_cyan);
-      height: 100%;
-      padding: 0 10px;
-      position: relative;
-      overflow: hidden;
-      padding: 0 10px;
-      display: flex;
-      flex-direction: column;
-  }
-
-  /* imagens de fundo */
-
-  .bg_top{
-      position: absolute;
-      top: -100%;
-      right: 50%;
-      z-index: 9;
-  }
-
-  .bg_bottom{
-      position: absolute;
-      bottom: -122%;
-      left: 49%;
-      z-index: 9;
-  }
-```
-
 
 ### Desenvolvimento contínuo
 
